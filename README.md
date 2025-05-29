@@ -163,3 +163,5 @@ If you comparison in both situation you can see the huge difference between them
 ![](https://miro.medium.com/v2/resize:fit:700/1*bv7h2xi_-YpfurfNKN1nGw.png)
 
 You can export as this pdf,xml,csv format and you see the clearly critical vulnerability and submit the report your organization as a detailed pdf format
+
+![](https://miro.medium.com/v2/resize:fit:700/1*SZvjtJNZ1KcnyB5OdWsfcA.png)
